@@ -1,4 +1,4 @@
-# Coursera IBM AI Engineering Capstone Project with Deep Learning
+# IBM AI Engineering Capstone Project with Deep Learning
 
 This repository contains all the notebooks and scripts used to complete the final Capstone project of the Coursera module **IBM AI Engineering**.
 
