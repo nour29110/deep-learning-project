@@ -41,7 +41,7 @@ A dataset of 40,000 images of concrete was provided by the course.
 The data is labeled as Positive (1) for images of concrete containing cracks, and Negative (0) when no cracks are visible.
 Images are resized to 224x224 pixels to input them into the pre-trained models.
 
-* In PyTorch, the dataset consisted of 30'000 training samples and 10'000 validation samples.
+* In PyTorch, the dataset consisted of 30,000 training samples and 10,000 validation samples.
 
 
 The cross-entropy loss function was used as criterion for training, and the ResNet18 model was trained in batches of 100 images using the Adam optimiser (an extended version of stochastic gradient descent).
