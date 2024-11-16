@@ -1,6 +1,6 @@
 # IBM AI Engineering Capstone Project with Deep Learning
 
-This repository contains all the notebooks and scripts used to complete the final Capstone project of the Coursera module **IBM AI Engineering**.
+This repository contains all the notebooks and scripts used to complete the final Capstone project of the **IBM AI Engineering** Professional Certificate
 
 > Learners who have completed this 6 course Professional Certificate have a practical understanding of Machine Learning (ML) & Deep Learning (DL). They have technical skills to start a career in AI Engineering, and can:
 >
